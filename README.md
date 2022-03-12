@@ -28,5 +28,5 @@ cruder:
 
 ```java
     @Autowired
-private JodaTimeService jodaTimeService;
+    private JodaTimeService jodaTimeService;
 ```
