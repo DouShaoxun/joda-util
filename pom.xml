@@ -18,7 +18,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <joda-util.version>1.0.0</joda-util.version>
+        <joda-util.version>1.0.1</joda-util.version>
         <spring-boot.version>2.6.4</spring-boot.version>
         <joda.version>2.10.13</joda.version>
     </properties>

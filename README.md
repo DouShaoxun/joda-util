@@ -18,7 +18,7 @@
 ```yaml
 cruder:
   joda:
-    # 开启(默认为true)
+    # 开启(默认为false)
     enable: true
     # 设置格式
     pattern-standard: yyyy-MM-dd HH:mm
